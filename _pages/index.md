@@ -7,9 +7,7 @@ permalink: /
 
 # Hi I am Vaishnavi! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+A full-time *Technical Content Writer* and an avid reader. I am not sure if I am making the right use of my garden, but there is no wrong way to share a little piece of one's mind. To give you an interesting starting point here is [[what's on my mind?]] right now!
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
