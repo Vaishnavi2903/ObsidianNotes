@@ -12,7 +12,5 @@ I am trying to learn every skill there is to become a proficient *Technical Writ
 
 | Name          | Description              |
 |---------------|--------------------------|
-|[[Markdown]]| Getting started with Markdown|
-| GitHub | Setting up your github account |
-
+|[[Markdown]] - From Scratch to Advanced| Get to know why markdown exists and about its applications. We will follow a practical approach to build a strong foundational understanding of the subject
 
