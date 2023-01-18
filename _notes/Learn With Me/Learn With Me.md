@@ -9,7 +9,10 @@ I am trying to learn every skill there is to become a proficient *Technical Writ
 
 #### Learn with me here! 👇
 
+
 | Name          | Description              |
 |---------------|--------------------------|
-|[[Markdown]]       | Getting started with Markdown|
+|[[Markdown]]| Getting started with Markdown|
+| GitHub | Setting up your github account |
+
 
