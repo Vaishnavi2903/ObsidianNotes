@@ -7,7 +7,10 @@ permalink: /
 
 # Hi I am Vaishnavi! 🌱
 
-A full-time *Technical Content Writer* and an avid reader. I am not sure if I am making the right use of my garden, but there is no wrong way to share a little piece of one's mind. To give you an interesting starting point here is [[what's on my mind?]] right now!
+A full-time *Technical Content Writer* and an avid reader. I am not sure if I am making the right use of my garden, but there is no wrong way to share a little piece of one's mind. To give you an interesting starting point, here's [[what's on my mind?]] right now!
+
+## What's in it for you?
+- [[Learn With Me]] - Technical Concepts by a Non-Tech writer. 
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
