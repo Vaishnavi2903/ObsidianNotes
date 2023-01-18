@@ -9,7 +9,7 @@ I am trying to learn every skill there is to become a proficient *Technical Writ
 
 #### Learn with me here! 👇
 
-| Name | Description|
-|-------|------------|
+| Name       | Description              |
+|------------|--------------------------|
 |[[Markdown]]| Getting started with Markdown|
 
