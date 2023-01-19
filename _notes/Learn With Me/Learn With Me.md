@@ -13,4 +13,5 @@ I am trying to learn every skill there is to become a proficient *Technical Writ
 | Name          | Description              |
 |---------------|--------------------------|
 |[[Markdown]] - From Scratch to Advanced| Get to know why markdown exists and about its applications. We will follow a practical approach to build a strong foundational understanding of the subject
+| [[DITA XML]]| Covering DITA XML concepts from scratch. Learning to use DITA XML editing tool|
 
