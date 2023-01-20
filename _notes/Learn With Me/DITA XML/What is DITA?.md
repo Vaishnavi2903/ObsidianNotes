@@ -1,0 +1,2 @@
+- DITA stands for Darwin Information Typing Architecture
+- 
