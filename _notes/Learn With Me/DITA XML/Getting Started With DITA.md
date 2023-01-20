@@ -1,3 +1,6 @@
+---
+Title: Getting Started with DITA
+---
 To get started with DITA we will first need a DITA authoring tool. There are multiple tools available in the market today. We will be learning using the Oxygen XML. 
 
 > [Download Oxygen XML editor here](https://www.oxygenxml.com "Oxygen XML download") 
