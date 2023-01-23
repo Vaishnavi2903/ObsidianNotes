@@ -1,6 +1,3 @@
----
-title: What is DITA?
----
 - DITA stands for ==Darwin Information Typing Architecture==
 - It is an <mark> XML data model </mark> used for authoring and publishing purposes
 - As technical writers, we are required to present our information to the customer in a <mark>standardised, organised and consistent manner.</mark> 

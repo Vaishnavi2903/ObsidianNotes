@@ -1,7 +1,3 @@
----
-title - Authoring in DITA
-Date - 23-01-2023
----
 - In order to be able to write documentation in DITA. You need to know the structured writing in DITA. 
 - We usually adobt the style called *writing based on information* types
 - This literally means defining a set of templates to go for and write inside them.
