@@ -11,7 +11,27 @@
 > [!Tips] 
 > It might take a while for you to write keeping maps in mind or to work around maps. But, the it is good to have a foundation understanding before starting with DITA XML
 
+## Strict Guidelines
+When someone is working as content writer or comfortable in domain which is less of technical writing, DITA can sometimes feel challenging. DITA can be so strict at times that you cannot even enter a single paragraph wherever you want within a topic. This is where practice and learning comes handy.
+
+Technical writers are required to follow a strict guidelines while working with DITA XML. You need to build a habit of thinking about the rules of writing and standards of DITA when documenting anything. 
+
+Everything you write in DITA has a meaning in itself. So the content needs to be curated in modularized and reusable format. It should be presented and written in a way that each section, each module can later be reused into a different user guide altogether.
+
+## Context Free Content
+
+Writing in anything in DITA needs to be context-free. what does it mean? It means that everything you write in DITA need not to be specific to any particular topic or reference in your content further. You as a author must create a content that is:
+- Capabilities of being influenced by the topic outside from your material.
+- Context-free, meaning no references like "take a look at the bullet point number 3" or "take a look at this topic". This is followed simply because nobody at this point knows whether that topic or reference exists in your content.
+
+## Requirements of Information Architecture in DITA
+
+### Different Level of Content Reuse
+ - You will be governing the organization and information of your content
+ - You will be enabled to use different levels of content. What are the different levels you ask? [Refer to this link to know more about the different levels and elements of DITA](https://www.oxygenxml.com/dita/1.3/specs/langRef/containers/element-quick-reference.html)
+ - Reusing and linking the entire deliverables, different maps, topics or specific topic elements. You can go very very deep when reusing content in DITA. Since, every line has a meaning of its own, DITA specifically opens a wide opportunity when talking about reusing content.
+
+### Linking Strategies
+
 
  
-
-
