@@ -32,6 +32,20 @@ Writing in anything in DITA needs to be context-free. what does it mean? It mean
  - Reusing and linking the entire deliverables, different maps, topics or specific topic elements. You can go very very deep when reusing content in DITA. Since, every line has a meaning of its own, DITA specifically opens a wide opportunity when talking about reusing content.
 
 ### Linking Strategies
+DITA empowers to adopt a linking strategies. The process of linking is automated once you finalize your linking strategy. Usually writers spend a lot of time linking their content. Amidst the linking, updating, and linking again, the result turns out to be a broken link. So, DITA helps you avoid any broken link by automating the process.
+
+Even though DITA makes linking feel like a little less, adopting the right linking strategy requires some thinking. 
+
+### Filtering and Flagging Based on Profiling
+- Information Architects are responsible for content personalisation. 
+- This can be done with the help of persona's, knowing about your target audience, and the information they need. 
+- You can later adopt a profiling strategy to represent their needs and information. 
+- The rule for any profiling strategy is simple:
+	- You should know what you need
+	- You should know your target audience
+	- Input accurate information 
+These rules are straightforward, it will become an aid in always getting the right content to the right target audience.
+
 
 
  
