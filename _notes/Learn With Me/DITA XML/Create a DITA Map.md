@@ -15,3 +15,5 @@ DITA topics are standalone objects which are a smaller picture of something very
 When it comes delivering these topics in deliverables, these topics need to be presented in a structured format. One way of doing so is by preparing a table of content and then delivering it to the audience. But, what if you do not want to deliver every topic?
 
 Well, in that case, DITA Maps comes into the picture. DITA Maps is like a bag, a bag where you store all your topics. At any given point, you can pick topic from your bag and deliver it to your target audience. 
+
+#DITA #LearnWithMe #DITAMaps 

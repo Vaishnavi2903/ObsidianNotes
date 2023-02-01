@@ -46,6 +46,4 @@ Even though DITA makes linking feel like a little less, adopting the right linki
 	- Input accurate information 
 These rules are straightforward, it will become an aid in always getting the right content to the right target audience.
 
-
-
- 
+#DITA #InformationArchitecture #DITAMaps #LearnWithMe 

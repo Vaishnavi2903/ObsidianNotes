@@ -6,10 +6,12 @@ You can either use an existing DITA Map or create a completely new map every tim
 
 Depending  on the type of information you want to deliver to your audience. Make a wise choice as this step detemines the type of content you will be creating later in the topic. 
 
-### 3. Create the DITA topic
+### 3. [[Create the DITA topic]]
 
 This is where you start creating your content in DITA
 
 ## 4. Reference topic from DITA Map
 
 ## 5. Transform the DITA XML into desired output format
+
+#DITA #LearnWithMe 
