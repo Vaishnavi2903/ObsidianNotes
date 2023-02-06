@@ -10,8 +10,9 @@ Depending  on the type of information you want to deliver to your audience. Make
 
 This is where you start creating your content in DITA
 
-## 4. Reference topic from DITA Map
+## 4. [[Reference topic from DITA Map]]
 
-## 5. Transform the DITA XML into desired output format
+## 5. [[Transform the DITA XML into desired output format]]
+
 
 #DITA #LearnWithMe 

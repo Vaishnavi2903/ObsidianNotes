@@ -2,4 +2,4 @@
 2. [[What is DITA?]]
 3. [[Authoring in DITA]]
 4. [[5 Quick Steps to DITA]]
-5. 
+5. [[DITA Element for Task Type Topic]]
